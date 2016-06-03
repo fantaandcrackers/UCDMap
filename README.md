@@ -18,9 +18,9 @@ Interactive map of UC Davis that includes real-time search and navigation.
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise. -->
 
-## Motivation
+<!-- ## Motivation
 
-This iOS application was a project I started as part of my application for the iOS Developer job position at Creative Media. Note: Code still needs to be restructured and cleaned.
+This iOS application was a project I started as part of my application for the iOS Developer job position at Creative Media. Note: Code still needs to be restructured and cleaned. -->
 
 ## Installation
 
